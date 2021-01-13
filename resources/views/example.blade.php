@@ -12,9 +12,5 @@
 dasdasdasdasdsa
 
 
-
-
-deneme
-
 </body>
 </html>
